@@ -1,5 +1,3 @@
-
-
 from classes.connector import Connector
 from classes.vacancy import Vacancy, sorting, get_top
 
